@@ -1,11 +1,11 @@
 {
   "name": "mern-thinkboard",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000T\u0000h\u0000e\u0000N\u0000o\u0000t\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "description": "TheNotes",
   "main": "index.js",
   "scripts": {
-    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend && npm run build --prefix",
-    "start":"npm run start --prefix backend"
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
